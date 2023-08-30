@@ -1,0 +1,4 @@
+Fixed compWt by checking for difference instead of similarity.
+Setting rect internal to probably fg instead of definite fg.
+Updating mask to set probably bg also and not just probably fg.
+Swapped the weight setting for fg and bg.
